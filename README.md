@@ -1,6 +1,6 @@
 ## Hola, Soy Joel! 👋
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Yorel06](https://raw.githubusercontent.com/Yorel06/Yorel06/main/baner.png)
 
 <!--
 **Yorel06/Yorel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
