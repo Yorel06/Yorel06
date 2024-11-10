@@ -54,7 +54,7 @@ Here are some ideas to get you started:-->
 
 <p align="center">
 
-<a href="www.linkedin.com/in/joelmv06/"><img src="https://img.shields.io/badge/-Joel%20Mamani%20Vilca-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joelmv06/"><img src="https://img.shields.io/badge/-Joel%20Mamani%20Vilca-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/joelm_vilca.06/"><img src="https://img.shields.io/badge/-@Joelm__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/joel.vilca"><img src="https://img.shields.io/badge/-@Joel.Vilca-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
