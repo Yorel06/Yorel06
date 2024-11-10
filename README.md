@@ -9,10 +9,10 @@ Here are some ideas to get you started:-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+🎓 &nbsp;Actualmente estoy estudiando Computación e Informatica en Cibertec, Lima - Perú.\
+🌱 &nbsp;Estoy en camino de aprender más sobre Programación, Inteligencia Artificial en Back-end y Front-end.\
+✍️ &nbsp;Actualmente, trabajo como diseñador gráfico, mi carrera actual.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
-🎓 &nbsp;Actualmente estoy estudiando Computación e Informatica en Cibertec de Lima - Perú.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Programación, Inteligencia Artificial, en Back-end y Front-end.\
-✍️ &nbsp;Actualmente, trabajo como diseñador gráfico mi carrera actual.\
 💬 &nbsp;No dudes en ponerte en contacto conmigo para aprender y compartir experiencias de programación.\
 ✉️ &nbsp;¡Puedes enviarme un mensaje a mi numero Whatsapp al +51 957984222! Trataré de responder tan pronto como pueda".\
 📄 &nbsp;Por favor, echa un vistazo a mi [Perfil-Computrabajo](https://candidato.pe.computrabajo.com/candidate/home) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
