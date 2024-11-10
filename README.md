@@ -15,12 +15,12 @@ Here are some ideas to get you started:-->
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
 💬 &nbsp;No dudes en ponerte en contacto conmigo para aprender y compartir experiencias de programación.\
 ✉️ &nbsp;¡Puedes enviarme un mensaje a mi numero Whatsapp al +51 957984222! Trataré de responder tan pronto como pueda".\
-📄 &nbsp;Por favor, echa un vistazo a mi [Perfil-Computrabajo](https://candidato.pe.computrabajo.com/candidate/home) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;Por favor, echa un vistazo a mi [Perfil-Computrabajo](https://candidato.pe.computrabajo.com/candidate/home) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Yorel06/Yorel06/main/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Mis habilidades
 
+### 🛠 &nbsp;Mis habilidades
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
