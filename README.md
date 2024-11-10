@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
 🎓 &nbsp;Actualmente estoy estudiando Computación e Informatica en Cibertec, Lima - Perú.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Programación, Inteligencia Artificial en Back-end y Front-end.\
@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Yorel06/Yorel06/main/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Mis habilidades
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -48,7 +48,7 @@ Here are some ideas to get you started:-->
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Mis Redes Sociales
 
 <p align="center">
 
